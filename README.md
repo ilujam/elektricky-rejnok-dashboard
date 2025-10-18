@@ -2,6 +2,9 @@
 
 ## Rychlé spuštění
 ```bash
+cd C:/Users.../složka kde je to uložené
+```
+```bash
 npm install
 npm run dev
 ```
